@@ -49,5 +49,5 @@ rapidly was both a challenge and a delight. We're optimistic about aLpha's poten
 - jQuery
 
 ## 🔗 Try it out
-[[Link to the extension/demo]] -> https://devpost.com/software/alpha-iu19dj)https://devpost.com/software/alpha-iu19dj
+[[Link to the extension/demo]] -> [Instructions](https://devpost.com/software/alpha-iu19dj)
 Follow the video step by step intruction for the installation and ACE it!
